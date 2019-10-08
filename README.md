@@ -8,6 +8,7 @@ Average Fare ($) Per City
 Total Number of Rides Per City
 Total Number of Drivers Per City
 City Type (Urban, Suburban, Rural)
+![figure1](analysis/figure1.png)
 
 In addition, you will be expected to produce the following three pie charts:
 
