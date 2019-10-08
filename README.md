@@ -14,5 +14,11 @@ Your objective is to build a Bubble Plot that showcases the relationship between
 In addition, you will be expected to produce the following three pie charts:
 
 % of Total Fares by City Type
+![figure2](analysis/figure2.png)
+
 % of Total Rides by City Type
+![figure3](analysis/figure3.png)
+
 % of Total Drivers by City Type
+![figure4](analysis/figure4.png)
+
