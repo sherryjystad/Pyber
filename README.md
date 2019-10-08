@@ -11,11 +11,18 @@ Your objective is to build a Bubble Plot that showcases the relationship between
 
 ![figure1](analysis/figure1.png)
 
+There seems to be more drivers in the urban area, but the average fares for each ride is less. I would suggest to current/future drivers for Pyber to concentrate in the suburban area because there are less drivers and the average fare is more competitive then driving in the urban area. 
+
 In addition, you will be expected to produce the following three pie charts:
 
 ![figure2](analysis/figure2.png)
 
+Base on the pie for % of total fares by city type, there are more riders for the Urban area, but their average fare per ride is $24.53. Even though there are less riders in the suburban area, the average fare is $30.97, which is $6.44 more than the average urban fare. 
+
 ![figure3](analysis/figure3.png)
+
+Lastly, according to this Pyber pie chart, there are too many urban drivers, which mean more competition and the drivers earn less money. If you break down the numbers, there are 80.9% (2405 urban drivers), 68.4% (1625 urban rides – see table below) and the average fare is $24.53 even though there are more rides.
+
 
 ![figure4](analysis/figure4.png)
 
