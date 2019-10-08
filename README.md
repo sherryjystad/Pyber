@@ -21,8 +21,6 @@ Base on the pie for % of total fares by city type, there are more riders for the
 
 ![figure3](analysis/figure3.png)
 
-Lastly, according to this Pyber pie chart, there are too many urban drivers, which mean more competition and the drivers earn less money. If you break down the numbers, there are 80.9% (2405 urban drivers), 68.4% (1625 urban rides – see table below) and the average fare is $24.53 even though there are more rides.
-
-
 ![figure4](analysis/figure4.png)
 
+There are too many urban drivers, which mean more competition and the drivers earn less money. If you break down the numbers, there are 80.9% (2405 urban drivers), 68.4% (1625 urban rides – see table below) and the average fare is $24.53 even though there are more rides.
